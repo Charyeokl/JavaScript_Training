@@ -116,3 +116,37 @@ let html = `
 console.log(html);
 
 */
+
+/*
+// using array
+let ninjas = ['shaun', 'ryu', 'chun-li'];
+
+// overiding a value
+// ninjas[1] = 'ken';
+
+// console.log(ninjas[1]);
+
+// let ages = [20,25,30,35];
+// console.log(ages[2]);
+
+//let random = ['shaun', 'crystal', 30, 20];
+//console.log(random);
+
+// console.log(ninjas.length);
+// array methods
+
+// Joining arrays together as a string
+// let result = ninjas.join(',');
+// console.log(result);
+
+// let result = ninjas.indexOf('chun-li');
+
+// join things together.
+// let result = ninjas. concat(['ken', 'crystal']);
+
+// alters original value
+// let result = ninjas.push('ken');
+// let result =  ninjas.pop();
+console.log(result);
+
+*/
