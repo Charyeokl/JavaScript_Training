@@ -148,5 +148,41 @@ let ninjas = ['shaun', 'ryu', 'chun-li'];
 // let result = ninjas.push('ken');
 // let result =  ninjas.pop();
 console.log(result);
-
 */
+
+/*
+//using null data type
+let age = null;
+console.log(age, age + 3, `the age is ${age}`);
+*/
+
+// Booleans
+
+// booleans & comparisons
+console.log(true, false, "true", "false");
+
+// methods can return booleans
+let email = 'luigi@thenetninja.co.uk';
+let names = ['mario', 'luigi', 'toad']
+
+// let result = email.includes('y');
+// let result = names.includes('bowser');
+
+// console.log(result);
+
+// comparison operators
+let age = 25;
+
+
+// == is equal while != is not equal
+/* console.log(age == 25);
+console.log(age == 30);
+console.log(age != 25);
+console.log(age > 20)
+console.log(age < 20);
+console.log(age <= 25);
+console.log( age >= 25); */
+let name = 'shaun';
+
+console.log(name == 'shaun');
+console.log(name == 'Shaun');
