@@ -148,5 +148,4 @@ let ninjas = ['shaun', 'ryu', 'chun-li'];
 // let result = ninjas.push('ken');
 // let result =  ninjas.pop();
 console.log(result);
-
 */
